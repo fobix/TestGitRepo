@@ -6,8 +6,8 @@ Main is now instead of master branche
 
 General stuf
 
-## GITLAB
+## GitLab
 
-GITLAB stuf
+GitLab stuf
 
-![GITLAB](images/logo_gitlab.png)
+![GitLab](images/logo_gitlab.png)
