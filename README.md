@@ -6,6 +6,8 @@ Main is now instead of master branche
 
 General stuf
 
-## Qradar
+## GITLAB
 
-QRadar stuf
+GITLAB stuf
+
+![GITLAB](images/logo_gitlab.png)
